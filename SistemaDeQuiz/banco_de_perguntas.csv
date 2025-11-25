@@ -1,0 +1,270 @@
+Fácil;O que é uma variável em programação?;Um valor fixo;Um espaço na memória para guardar dados;Um tipo de erro;Um comando de repetição;Um espaço na memória para guardar dados;Programação
+Fácil;Qual símbolo é comum para terminar linhas em Java?;:;.;,;;;;Programação
+Fácil;O que significa a sigla HTML?;HyperText Markup Language;High Tech Machine Learning;Home Tool Make Line;Hyper Link Text Mode;HyperText Markup Language;Programação
+Fácil;Qual é o valor de uma variável booleana?;0 ou 10;Verdadeiro ou Falso;Texto ou Número;Positivo ou Negativo;Verdadeiro ou Falso;Programação
+Fácil;Qual comando é usado para exibir texto na tela em muitas linguagens?;read();print();scan();loop();print();Programação
+Fácil;O que é um "bug"?;Um recurso novo;Um tipo de vírus;Uma falha ou erro no código;Um componente de hardware;Uma falha ou erro no código;Programação
+Fácil;Qual destes é um número inteiro (int)?;10.5;"Texto";42;True;42;Programação
+Fácil;Para que serve o comando "if"?;Para repetir um código;Para tomar uma decisão baseada em condição;Para declarar uma variável;Para parar o programa;Para tomar uma decisão baseada em condição;Programação
+Fácil;Qual destes é um hardware?;Windows;Microsoft Word;Teclado;Navegador Chrome;Teclado;Programação
+Fácil;O que é um loop (laço)?;Uma variável de texto;Uma repetição de código;Uma função matemática;Um erro de sintaxe;Uma repetição de código;Programação
+Fácil;Qual é o resultado de 10 % 3 (resto da divisão)?;1;3;0;10;1;Programação
+Fácil;Em Java, como se comenta uma única linha?;;/* Comentário */;# Comentário;// Comentário;// Comentário;Programação
+Fácil;O que é um algoritmo?;Um tipo de computador;Uma sequência de passos para resolver um problema;Uma peça de hardware;Uma linguagem de programação;Uma sequência de passos para resolver um problema;Programação
+Fácil;Qual destas é uma linguagem de programação?;HTML;MP3;JPEG;Python;Python;Programação
+Fácil;O que significa "CPU"?;Central Process Unit;Computer Personal Unit;Central Power Usage;Control Panel Unit;Central Process Unit;Programação
+Fácil;Qual tipo de dado armazena texto?;int;boolean;String;double;String;Programação
+Fácil;O que é um Array (Vetor)?;Um único número;Uma lista de variáveis do mesmo tipo;Um erro de compilação;Um banco de dados;Uma lista de variáveis do mesmo tipo;Programação
+Fácil;O que faz o operador "=="?;Atribui valor;Compara se dois valores são iguais;Soma dois valores;Divide dois valores;Compara se dois valores são iguais;Programação
+Fácil;Qual a função da memória RAM?;Armazenar dados permanentemente;Processar gráficos;Armazenar dados temporários enquanto o PC está ligado;Resfriar o computador;Armazenar dados temporários enquanto o PC está ligado;Programação
+Fácil;O que é código-fonte?;O manual do usuário;O texto escrito pelo programador;O arquivo executável final;A marca do computador;O texto escrito pelo programador;Programação
+Fácil;Qual destes é um sistema operacional?;Google Chrome;Java;Linux;Mouse;Linux;Programação
+Fácil;O que significa "identação"?;Apagar o código;Organizar o código com recuos para leitura;Colorir o código;Compilar o código;Organizar o código com recuos para leitura;Programação
+Fácil;O que é um bit?;8 bytes;A menor unidade de informação (0 ou 1);Um tipo de monitor;Um vírus;A menor unidade de informação (0 ou 1);Programação
+Fácil;Qual operador usamos para multiplicação?;x;.;#;*;*;Programação
+Fácil;O que é um "loop infinito"?;Um loop que nunca para;Um loop muito rápido;Um loop que roda 1000 vezes;Um jogo sem fim;Um loop que nunca para;Programação
+Fácil;Qual destes NÃO é uma linguagem de programação?;Java;C++;Excel;Ruby;Excel;Programação
+Fácil;O que é concatenação?;Somar números;Juntar duas ou mais strings (textos);Dividir arquivos;Apagar variáveis;Juntar duas ou mais strings (textos);Programação
+Fácil;Qual é a extensão de um arquivo Java?;.js;.txt;.java;.py;.java;Programação
+Fácil;O que o comando "else" faz?;Inicia um programa;Define uma variável;Executa um bloco se a condição do "if" for falsa;Repete o código;Executa um bloco se a condição do "if" for falsa;Programação
+Fácil;O que é a nuvem (Cloud Computing)?;Um satélite;Servidores acessados pela internet para armazenar dados;Um tipo de monitor;Uma rede social;Servidores acessados pela internet para armazenar dados;Programação
+Fácil;Qual número representa "falso" em binário?;1;0;10;-1;0;Programação
+Fácil;O que é IDE?;Um jogo;Um ambiente de desenvolvimento integrado;Uma marca de computador;Um tipo de internet;Um ambiente de desenvolvimento integrado;Programação
+Fácil;O que é Open Source?;Software pago;Software com código aberto e livre;Software pirata;Software que não funciona;Software com código aberto e livre;Programação
+Fácil;Qual a função do compilador?;Digitar o código;Traduzir o código fonte para linguagem de máquina;Limpar a tela;Salvar o arquivo;Traduzir o código fonte para linguagem de máquina;Programação
+Fácil;O que é um "backup"?;Um vírus;Uma cópia de segurança dos dados;Um computador novo;Uma senha forte;Uma cópia de segurança dos dados;Programação
+Fácil;Qual tecla geralmente atualiza uma página web?;F1;F5;Alt;Esc;F5;Programação
+Fácil;O que é Wi-Fi?;Internet via cabo;Internet sem fio;Um programa de edição;Uma marca de celular;Internet sem fio;Programação
+Fácil;Qual símbolo representa "maior que"?;<;=;>;#;>;Programação
+Fácil;O que é um "pixel"?;Um tipo de som;O menor ponto de uma imagem digital;Um cabo de rede;Uma tecla;O menor ponto de uma imagem digital;Programação
+Fácil;Qual empresa criou o Windows?;Apple;Google;Microsoft;IBM;Microsoft;Programação
+Fácil;Qual é a capital do Brasil?;Rio de Janeiro;São Paulo;Brasília;Salvador;Brasília;Gerais
+Fácil;Quantos dias tem uma semana?;5;6;7;8;7;Gerais
+Fácil;Qual a cor do céu em um dia limpo?;Verde;Azul;Amarelo;Roxo;Azul;Gerais
+Fácil;Qual é o maior planeta do Sistema Solar?;Terra;Marte;Júpiter;Saturno;Júpiter;Gerais
+Fácil;Quantas horas tem um dia?;12;20;24;48;24;Gerais
+Fácil;Em qual continente fica o Brasil?;África;Europa;Ásia;América do Sul;América do Sul;Gerais
+Fácil;Qual fruta a Branca de Neve comeu?;Banana;Pera;Uva;Maçã;Maçã;Gerais
+Fácil;Qual é a moeda usada no Brasil?;Dólar;Euro;Real;Peso;Real;Gerais
+Fácil;O que as abelhas produzem?;Leite;Mel;Algodão;Seda;Mel;Gerais
+Fácil;Quantos meses tem um ano?;10;11;12;13;12;Gerais
+Fácil;Quem descobriu o Brasil?;Cristóvão Colombo;Pedro Álvares Cabral;Dom Pedro I;Tiradentes;Pedro Álvares Cabral;Gerais
+Fácil;Qual é o oposto de "frio"?;Gelado;Morno;Quente;Congelado;Quente;Gerais
+Fácil;Qual instrumento é usado para medir temperatura?;Barômetro;Termômetro;Velocímetro;Régua;Termômetro;Gerais
+Fácil;Quantos jogadores tem um time de futebol em campo?;10;11;12;9;11;Gerais
+Fácil;Qual é a cor da bandeira do Brasil que representa as matas?;Azul;Amarelo;Branco;Verde;Verde;Gerais
+Fácil;O que comemoramos no dia 25 de dezembro?;Páscoa;Natal;Carnaval;Ano Novo;Natal;Gerais
+Fácil;Qual é o nome do nosso planeta?;Marte;Lua;Terra;Sol;Terra;Gerais
+Fácil;Qual animal é conhecido como o rei da selva?;Tigre;Elefante;Leão;Girafa;Leão;Gerais
+Fácil;Quantos lados tem um triângulo?;2;3;4;5;3;Gerais
+Fácil;Qual língua é falada nos Estados Unidos?;Português;Espanhol;Inglês;Francês;Inglês;Gerais
+Fácil;Onde o sol nasce?;Norte;Sul;Leste;Oeste;Leste;Gerais
+Fácil;Qual é o resultado de 2 + 2?;3;4;5;6;4;Gerais
+Fácil;Qual objeto usamos para ver as horas?;Bússola;Relógio;Termômetro;Calculadora;Relógio;Gerais
+Fácil;Qual é o personagem principal da Turma da Mônica?;Cebolinha;Cascão;Magali;Mônica;Mônica;Gerais
+Fácil;Qual a cor do cavalo branco de Napoleão?;Preto;Marrom;Branco;Cinza;Branco;Gerais
+Fácil;O que usamos para escovar os dentes?;Pente;Escova de dentes;Cotonete;Esponja;Escova de dentes;Gerais
+Fácil;Qual mês vem depois de janeiro?;Março;Abril;Fevereiro;Dezembro;Fevereiro;Gerais
+Fácil;Qual é o satélite natural da Terra?;Sol;Lua;Marte;Estrela;Lua;Gerais
+Fácil;Qual cor obtemos misturando azul e amarelo?;Roxo;Laranja;Verde;Cinza;Verde;Gerais
+Fácil;Quantos dedos temos em uma mão?;4;5;6;10;5;Gerais
+Fácil;O que o peixe usa para respirar?;Nariz;Pulmões;Guelras;Boca;Guelras;Gerais
+Fácil;Qual é o maior animal do mundo?;Elefante;Tubarão;Baleia Azul;Girafa;Baleia Azul;Gerais
+Fácil;Qual estação do ano faz mais calor?;Inverno;Outono;Primavera;Verão;Verão;Gerais
+Fácil;Quem pintou a Mona Lisa?;Van Gogh;Leonardo da Vinci;Picasso;Michelangelo;Leonardo da Vinci;Gerais
+Fácil;Onde ficam as Pirâmides?;Brasil;Egito;China;Japão;Egito;Gerais
+Fácil;Qual é o estado físico da água no gelo?;Líquido;Gasoso;Sólido;Vapor;Sólido;Gerais
+Fácil;Qual animal mia?;Cachorro;Gato;Pato;Vaca;Gato;Gerais
+Fácil;O que usamos para cortar papel?;Colher;Tesoura;Garfo;Martelo;Tesoura;Gerais
+Fácil;Qual é a cor do sangue?;Azul;Verde;Vermelho;Amarelo;Vermelho;Gerais
+Fácil;Quantas letras tem o alfabeto português?;23;25;26;27;26;Gerais
+Fácil;Qual animal late?;Gato;Cachorro;Cavalo;Pato;Cachorro;Animais
+Fácil;Qual animal tem tromba?;Girafa;Leão;Elefante;Hipopótamo;Elefante;Animais
+Fácil;Qual animal produz leite?;Galinha;Vaca;Cobra;Peixe;Vaca;Animais
+Fácil;Qual é o único mamífero que voa?;Avestruz;Morcego;Pinguim;Esquilo;Morcego;Animais
+Fácil;Quantas patas tem uma aranha?;4;6;8;10;8;Animais
+Fácil;Qual animal é conhecido por sua lentidão?;Guepardo;Coelho;Tartaruga;Cavalo;Tartaruga;Animais
+Fácil;Qual animal tem o pescoço muito comprido?;Zebra;Elefante;Girafa;Leão;Girafa;Animais
+Fácil;Onde os peixes vivem?;Na terra;No ar;Na água;No fogo;Na água;Animais
+Fácil;Qual animal põe ovos e cacareja?;Pato;Galinha;Peru;Ganso;Galinha;Animais
+Fácil;Qual animal é verde e pula no brejo?;Sapo;Cobra;Lagarto;Peixe;Sapo;Animais
+Fácil;Qual animal tem listras pretas e brancas?;Cavalo;Zebra;Tigre;Vaca;Zebra;Animais
+Fácil;O que o urso panda come principalmente?;Carne;Peixe;Bambu;Frutas;Bambu;Animais
+Fácil;Qual pássaro é símbolo da paz?;Urubu;Pomba;Papagaio;Águia;Pomba;Animais
+Fácil;Qual animal carrega a casa nas costas?;Cachorro;Caracol;Gato;Rato;Caracol;Animais
+Fácil;Qual animal gosta de comer bananas?;Leão;Macaco;Tubarão;Lobo;Macaco;Animais
+Fácil;Qual é o maior felino?;Gato;Tigre;Leão;Onça;Tigre;Animais
+Fácil;Qual animal produz lã?;Vaca;Porco;Ovelha;Cabra;Ovelha;Animais
+Fácil;Qual inseto produz mel?;Formiga;Abelha;Mosca;Besouro;Abelha;Animais
+Fácil;Qual animal é o melhor amigo do homem?;Gato;Cachorro;Cavalo;Pássaro;Cachorro;Animais
+Fácil;Qual animal muda de cor?;Camaleão;Lagartixa;Cobra;Sapo;Camaleão;Animais
+Fácil;Qual animal vive na Antártida e não voa?;Pato;Pinguim;Gaivota;Pomba;Pinguim;Animais
+Fácil;Qual animal é rosa e vive na lama?;Vaca;Ovelha;Porco;Cavalo;Porco;Animais
+Fácil;Quantas patas tem um cachorro?;2;3;4;6;4;Animais
+Fácil;Qual animal tem uma juba?;Tigre;Leão;Gato;Onça;Leão;Animais
+Fácil;O girino é filhote de qual animal?;Peixe;Sapo;Cobra;Tartaruga;Sapo;Animais
+Fácil;Qual animal faz "Muu"?;Gato;Cachorro;Vaca;Porco;Vaca;Animais
+Fácil;Qual animal é conhecido por ter 7 vidas?;Cachorro;Gato;Papagaio;Tartaruga;Gato;Animais
+Fácil;Qual destes animais é um réptil?;Sapo;Cachorro;Cobra;Galinha;Cobra;Animais
+Fácil;Qual animal vive em uma colmeia?;Formiga;Abelha;Cupim;Aranha;Abelha;Animais
+Fácil;Qual animal pula e carrega o filhote na bolsa?;Coelho;Canguru;Sapo;Gato;Canguru;Animais
+Fácil;Qual animal tem o corpo coberto de escamas?;Cachorro;Peixe;Gato;Pássaro;Peixe;Animais
+Fácil;Qual animal hiberna no inverno?;Urso;Leão;Zebra;Elefante;Urso;Animais
+Fácil;Qual é o animal mais alto da terra?;Elefante;Girafa;Avestruz;Camelo;Girafa;Animais
+Fácil;Qual pássaro não voa e corre rápido?;Pomba;Avestruz;Papagaio;Canário;Avestruz;Animais
+Fácil;Qual animal tem chifres e produz leite?;Cabra;Cachorro;Gato;Galinha;Cabra;Animais
+Fácil;Qual animal é conhecido por sua memória?;Peixe;Elefante;Gato;Rato;Elefante;Animais
+Fácil;Qual animal constrói teias?;Formiga;Aranha;Abelha;Mosca;Aranha;Animais
+Fácil;Qual animal é um crustáceo?;Peixe;Caranguejo;Baleia;Tubarão;Caranguejo;Animais
+Fácil;Qual animal relincha?;Vaca;Ovelha;Cavalo;Porco;Cavalo;Animais
+Fácil;Qual animal vive no deserto e tem corcovas?;Cavalo;Camelo;Elefante;Leão;Camelo;Animais
+Médio;Qual dos princípios da Programação Orientada a Objetos (POO) protege os dados de acesso externo?;Polimorfismo;Herança;Encapsulamento;Abstração;Encapsulamento;Programação
+Médio;Em Java, qual a função da palavra-chave "final" quando aplicada a um método?;Impede que o método seja chamado;Impede que o método seja sobrecarregado (Overload);Impede que o método seja sobrescrito (Override) em subclasses;Impede que o método retorne valor;Impede que o método seja sobrescrito (Override) em subclasses;Programação
+Médio;O que é Sobrecarga de Método (Overload)?;Um método que chama a si mesmo;Múltiplos métodos com o mesmo nome, mas diferentes parâmetros;Múltiplos métodos com o mesmo nome, mas diferentes tipos de retorno;Um método que substitui outro da superclasse;Múltiplos métodos com o mesmo nome, mas diferentes parâmetros;Programação
+Médio;O que é um construtor de classe?;Um método comum;Um método especial chamado ao criar um objeto;Um método que apaga um objeto;Um método para inicializar variáveis estáticas;Um método especial chamado ao criar um objeto;Programação
+Médio;Qual tipo de estrutura de dados é conhecida como FIFO (First In, First Out)?;Pilha (Stack);Fila (Queue);Array;Lista Ligada;Fila (Queue);Programação
+Médio;Em Java, qual classe é a superclasse de todas as outras classes?;Main;Object;Class;System;Object;Programação
+Médio;O que é o Garbage Collector (Coletor de Lixo)?;Um método para otimizar o código;Um programa que destrói objetos não utilizados na memória;Um recurso para limpar o disco rígido;Uma função para fechar arquivos;Um programa que destrói objetos não utilizados na memória;Programação
+Médio;Qual dos comandos abaixo é usado para sair de um loop imediatamente?;continue;break;return;exit();break;Programação
+Médio;Qual é a complexidade de tempo de pesquisa em um Array não ordenado no pior caso?;O(1);O(log n);O(n);O(n²);O(n);Programação
+Médio;O que faz a palavra-chave "static" em um atributo de classe?;Torna o atributo imutável;Torna o atributo exclusivo de uma instância do objeto;Torna o atributo pertencente à classe, não a uma instância;Impede o acesso externo;Torna o atributo pertencente à classe, não a uma instância;Programação
+Médio;Qual a principal diferença entre Interface e Classe Abstrata em Java?;Interfaces podem ter construtores;Classes abstratas podem ter métodos concretos (com corpo);Interfaces podem ser instanciadas;Classes abstratas não podem ter herança;Classes abstratas podem ter métodos concretos (com corpo);Programação
+Médio;Qual é o tipo de dado que armazena números de ponto flutuante com maior precisão?;float;int;char;double;double;Programação
+Médio;Qual estrutura de dados permite inserção e remoção apenas em uma das extremidades (topo)?;Fila (Queue);Árvore;Pilha (Stack);Lista Ligada Dupla;Pilha (Stack);Programação
+Médio;O que significa a sigla SQL?;Simple Query Language;Structured Query Language;Standard Question Logic;Sequential Query Locator;Structured Query Language;Programação
+Médio;Qual operador lógico retorna verdadeiro se AMBAS as condições forem verdadeiras?;OR (||);NOT (!);XOR (^);AND (&&);AND (&&);Programação
+Médio;O que é JDBC em Java?;Uma linguagem de programação;Uma API para conectar Java a bancos de dados;Uma biblioteca gráfica;Um tipo de servidor;Uma API para conectar Java a bancos de dados;Programação
+Médio;Qual o objetivo do polimorfismo em POO?;Esconder a implementação;Reutilizar código através de herança;Permitir que um objeto tome muitas formas;Proteger dados;Permitir que um objeto tome muitas formas;Programação
+Médio;Em Java, qual exceção é geralmente lançada quando tentamos acessar um índice inválido de um array?;NullPointerException;IOException;ArrayIndexOutOfBoundsException;IllegalArgumentException;ArrayIndexOutOfBoundsException;Programação
+Médio;O que é um padrão de projeto (Design Pattern)?;Um erro comum;Uma solução reutilizável para problemas recorrentes;Um template de código;Uma ferramenta de compilação;Uma solução reutilizável para problemas recorrentes;Programação
+Médio;O que é um HashMap na Java Collections Framework?;Uma lista ordenada;Um conjunto de elementos únicos;Uma estrutura que armazena pares chave-valor;Um tipo de vetor;Uma estrutura que armazena pares chave-valor;Programação
+Médio;Qual a diferença essencial entre Stack e Heap na memória?;Stack é para métodos, Heap é para variáveis estáticas;Stack é para tipos primitivos, Heap é para objetos;Stack é menor e mais rápido, usado para execução de métodos;Stack é menor e mais rápido, usado para execução de métodos;Programação
+Médio;Para que serve o método "equals()" em Java?;Somar objetos;Comparar se duas referências de memória são iguais;Comparar se o conteúdo de dois objetos é logicamente igual;Comparar strings;Comparar se o conteúdo de dois objetos é logicamente igual;Programação
+Médio;O que é herança múltipla?;Uma classe herdar de várias outras classes diretamente;Uma classe ter muitos métodos;Múltiplos objetos da mesma classe;Um objeto ser herdado por muitas subclasses;Uma classe herdar de várias outras classes diretamente;Programação
+Médio;O que é o conceito de Abstração em POO?;Criar classes complexas;Mostrar apenas informações essenciais e esconder os detalhes;Usar herança;Proteger os dados;Mostrar apenas informações essenciais e esconder os detalhes;Programação
+Médio;Qual a complexidade de tempo de pesquisa em uma Árvore Binária de Busca balanceada?;O(n);O(n log n);O(log n);O(n²);O(log n);Programação
+Médio;Qual país tem a maior população do mundo (dados recentes)?;China;Estados Unidos;Rússia;Índia;Índia;Gerais
+Médio;Quem foi o primeiro presidente do Brasil após a Proclamação da República?;Getúlio Vargas;Deodoro da Fonseca;Floriano Peixoto;Marechal Rondon;Deodoro da Fonseca;Gerais
+Médio;Qual é o maior deserto quente do mundo?;Gobi;Atacama;Saara;Kalahari;Saara;Gerais
+Médio;Qual dos elementos abaixo é representado pelo símbolo químico Au?;Prata;Ouro;Cobre;Ferro;Ouro;Gerais
+Médio;Em que ano ocorreu a Inconfidência Mineira?;1822;1789;1500;1964;1789;Gerais
+Médio;Qual é o nome do rio que banha a cidade do Cairo, capital do Egito?;Rio Amarelo;Rio Nilo;Rio Amazonas;Rio Paraná;Rio Nilo;Gerais
+Médio;Quem escreveu a obra "Dom Quixote"?;William Shakespeare;Miguel de Cervantes;Gabriel García Márquez;Cervantes;Miguel de Cervantes;Gerais
+Médio;Em que cidade se localiza o famoso Coliseu?;Atenas;Paris;Roma;Londres;Roma;Gerais
+Médio;Qual a principal função da hemoglobina no sangue humano?;Coagulação;Combater infecções;Transportar oxigênio;Regular a temperatura;Transportar oxigênio;Gerais
+Médio;Qual país é conhecido como a Terra do Sol Nascente?;China;Japão;Coreia do Sul;Tailândia;Japão;Gerais
+Médio;Qual das seguintes guerras foi responsável por dividir a Alemanha em duas nações (Oriental e Ocidental)?;Primeira Guerra Mundial;Guerra Fria;Guerra do Vietnã;Guerra Civil Americana;Guerra Fria;Gerais
+Médio;Qual artista pintou "A Noite Estrelada"?;Pablo Picasso;Leonardo da Vinci;Vincent van Gogh;Salvador Dalí;Vincent van Gogh;Gerais
+Médio;Qual é a fórmula química da água oxigenada?;H2O;CO2;H2O2;O3;H2O2;Gerais
+Médio;Qual a capital do Canadá?;Toronto;Montreal;Vancouver;Ottawa;Ottawa;Gerais
+Médio;Em que período da história brasileira ocorreu a "Era Vargas"?;República Velha;Ditadura Militar;Idade Média;Século XXI;República Velha;Gerais
+Médio;Qual o nome do fenômeno óptico que separa a luz em diferentes cores?;Reflexão;Refração;Difração;Efeito Doppler;Refração;Gerais
+Médio;Quem foi o primeiro homem a pisar na Lua?;Yuri Gagarin;Neil Armstrong;Buzz Aldrin;Marcos Pontes;Neil Armstrong;Gerais
+Médio;Qual cordilheira se estende pela costa oeste da América do Sul?;Andes;Himalaia;Apeninos;Rocosas;Andes;Gerais
+Médio;Qual é a única letra do alfabeto que não aparece na tabela periódica dos elementos químicos?;J;Q;X;K;J;Gerais
+Médio;O que a sigla ONU significa?;Organização Nacional Unificada;Organização das Nações Unidas;Ordem Nova Universal;Organização da Natureza Humana;Organização das Nações Unidas;Gerais
+Médio;Qual o nome da península onde se localiza a Espanha e Portugal?;Balcânica;Arábica;Ibérica;Itálica;Ibérica;Gerais
+Médio;Quem inventou a lâmpada elétrica comercialmente viável?;Nikola Tesla;Graham Bell;Thomas Edison;Henry Ford;Thomas Edison;Gerais
+Médio;Qual o nome do famoso museu de Paris que abriga a Mona Lisa?;Museu Britânico;Louvre;Prado;Metropolitan;Louvre;Gerais
+Médio;Qual é a unidade de medida padrão de energia no Sistema Internacional?;Watt;Volt;Joule;Ampère;Joule;Gerais
+Médio;Qual evento histórico marcou o início da Idade Contemporânea?;Queda do Muro de Berlim;Revolução Industrial;Revolução Francesa;Descobrimento da América;Revolução Francesa;Gerais
+Médio;Qual animal terrestre é considerado o mais rápido do mundo?;Leão;Guepardo;Cavalo;Antílope;Guepardo;Animais
+Médio;Quantos corações um polvo geralmente possui?;Um;Dois;Três;Quatro;Três;Animais
+Médio;Qual é o maior primata do mundo?;Macaco-prego;Orangotango;Gorila;Chimpanzé;Gorila;Animais
+Médio;Qual animal é o único mamífero que pode botar ovos?;Morcego;Golfinho;Ornitorrinco;Canguru;Ornitorrinco;Animais
+Médio;Qual animal marinho é conhecido por produzir tinta para se defender?;Lula;Tubarão;Polvo;Água-viva;Polvo;Animais
+Médio;Qual inseto é usado em testes de genética por se reproduzir rapidamente?;Joaninha;Mosca-das-frutas;Formiga;Abelha;Mosca-das-frutas;Animais
+Médio;Qual animal é considerado sagrado na Índia e não pode ser abatido?;Cobra;Cachorro;Vaca;Elefante;Vaca;Animais
+Médio;Qual animal é conhecido por ter a pele preta sob o pelo branco?;Urso Polar;Tigre;Panda;Lobo;Urso Polar;Animais
+Médio;Qual é o nome da maior serpente não venenosa do Brasil?;Jiboia;Sucuri;Cascavel;Cobra-rei;Sucuri;Animais
+Médio;Qual pássaro consegue voar para trás?;Coruja;Gavião;Beija-flor;Águia;Beija-flor;Animais
+Médio;Qual animal tem o nome científico *Acinonyx jubatus*?;Leão;Guepardo;Leopardo;Jaguar;Guepardo;Animais
+Médio;Qual animal consegue regenerar membros perdidos do corpo?;Tartaruga;Lula;Estrela-do-mar;Caranguejo;Estrela-do-mar;Animais
+Médio;Qual animal vive no deserto e tem uma corcova para armazenar gordura?;Dromedário;Cavalo;Lhama;Zebra;Dromedário;Animais
+Médio;Qual animal é conhecido por ser o rei da selva, embora viva na savana?;Tigre;Leão;Gorila;Elefante;Leão;Animais
+Médio;Qual a principal fonte de alimento na dieta do Coala?;Grama;Bambu;Folhas de eucalipto;Frutas;Folhas de eucalipto;Animais
+Médio;Qual animal não pode pular, apesar de ser um grande mamífero terrestre?;Cavalo;Elefante;Rinoceronte;Hipopótamo;Elefante;Animais
+Médio;O que é uma alcateia?;Um grupo de peixes;Um grupo de lobos;Um grupo de abelhas;Um grupo de pássaros;Um grupo de lobos;Animais
+Médio;Qual é o nome do maior roedor do mundo?;Rato;Castor;Capivara;Esquilo;Capivara;Animais
+Médio;Qual animal constrói barragens nos rios usando galhos e lama?;Lontra;Castor;Capivara;Macaco;Castor;Animais
+Médio;Qual animal possui a mordida mais forte do planeta?;Tigre;Crocodilo-de-água-salgada;Tubarao Branco;Hipopótamo;Crocodilo-de-água-salgada;Animais
+Médio;Onde o camarão tem seu coração localizado?;Na cabeça;No corpo;Na cauda;No tórax;Na cabeça;Animais
+Médio;Qual desses animais marinhos é um mamífero?;Tubarão;Golfinho;Baleia;Lula;Baleia;Animais
+Médio;Qual é a maior ave que consegue voar?;Avestruz;Águia;Albatroz-errante;Condor;Albatroz-errante;Animais
+Médio;Qual animal é conhecido por ter impressões digitais muito semelhantes às humanas?;Chimpanzé;Gorila;Coala;Orangotango;Coala;Animais
+Médio;Qual animal não consegue olhar diretamente para o céu devido à sua anatomia cervical?;Porco;Cobra;Vaca;Tartaruga;Porco;Animais
+Difícil;Qual das características do Garbage Collector em Java é considerada "não determinística"?;A liberação imediata de objetos;O momento exato em que a coleta será executada;A velocidade de execução do programa;A quantidade de memória alocada;O momento exato em que a coleta será executada;Programação
+Difícil;Qual é a complexidade de tempo do algoritmo QuickSort no pior caso?;O(n);O(log n);O(n²);O(n log n);O(n²);Programação
+Difícil;Em um sistema de concorrência Java, o que o método "wait()" faz?;Pausa a thread por um tempo específico;Libera o lock do monitor e coloca a thread em estado de espera;Pausa a thread e mantém o lock;Faz a thread entrar em loop infinito;Libera o lock do monitor e coloca a thread em estado de espera;Programação
+Difícil;O que é um 'Singleton' em Padrões de Projeto?;Uma classe com múltiplos construtores;Um método que retorna um único valor;Uma classe que garante apenas uma instância de si mesma;Uma interface com um único método;Uma classe que garante apenas uma instância de si mesma;Programação
+Difícil;Qual é a principal função de um 'ClassLoader' na JVM?;Gerenciar o heap da memória;Traduzir bytecode em código nativo;Carregar classes na memória sob demanda;Coletar o lixo (garbage);Carregar classes na memória sob demanda;Programação
+Difícil;O que define um 'Objeto Imutável' em Java?;Ter apenas métodos privados;Ter métodos setters protegidos;Não ter seu estado interno alterado após a construção;Ser uma subclasse da classe String;Não ter seu estado interno alterado após a construção;Programação
+Difícil;O que a anotação "@Override" em Java garante?;A otimização do método;Que o método está realmente sobrescrevendo um método da superclasse/interface;Que o método é estático;Que o método não lança exceções;Que o método está realmente sobrescrevendo um método da superclasse/interface;Programação
+Difícil;Qual a diferença essencial entre ArrayList e LinkedList em termos de estrutura de dados?;ArrayList usa vetor, LinkedList usa nós encadeados;ArrayList é mais rápido para inserção;LinkedList é sempre mais rápido para busca;ArrayList não permite valores nulos;ArrayList usa vetor, LinkedList usa nós encadeados;Programação
+Difícil;O que é 'Boxing' em Java?;Converter um int em double;Converter um tipo primitivo (int) em seu wrapper (Integer);Converter um String em int;Converter um objeto em seu tipo primitivo;Converter um tipo primitivo (int) em seu wrapper (Integer);Programação
+Difícil;O que é uma 'Race Condition' (Condição de Corrida) em concorrência?;Um erro de compilação;Um evento em que o resultado depende da ordem não controlada de execução das threads;Um estado de espera de threads;Um erro de alocação de memória;Um evento em que o resultado depende da ordem não controlada de execução das threads;Programação
+Difícil;Em Java, qual a função de um 'checked exception' (exceção verificada)?;Deve ser declarada (throws) ou tratada (try-catch);Pode ser ignorada pelo compilador;Ocorre apenas em tempo de execução;Só acontece em I/O;Deve ser declarada (throws) ou tratada (try-catch);Programação
+Difícil;Qual dos seguintes métodos deve ser sobrescrito em conjunto com equals() para consistência em HashMap?;toString();compareTo();hashCode();clone();hashCode();Programação
+Difícil;O que é o acoplamento 'Baixo' em Design de Software?;Classes com muitas dependências entre si;Classes que são independentes;Classes que herdam muitas propriedades;Classes que têm muitos métodos;Classes que são independentes;Programação
+Difícil;Qual das camadas da Arquitetura em Três Camadas garante a Isolamento de Dados?;Apresentação (UI);Lógica de Negócio (Service);Acesso a Dados (DAO);Modelagem;Acesso a Dados (DAO);Programação
+Difícil;O que é Injeção de Dependência (DI)?;Criar objetos manualmente;Passar as dependências (objetos) que uma classe precisa via construtor ou setter;Esconder as dependências;Usar variáveis estáticas;Passar as dependências (objetos) que uma classe precisa via construtor ou setter;Programação
+Difícil;O que o comando "git rebase" faz?;Publica o código no repositório remoto;Combina commits reescrevendo o histórico do branch;Cria uma nova branch;Apaga o último commit;Combina commits reescrevendo o histórico do branch;Programação
+Difícil;Em POO, qual o conceito que permite a um objeto de subclasse ser tratado como um objeto de sua superclasse?;Encapsulamento;Herança;Polimorfismo;Abstração;Polimorfismo;Programação
+Difícil;Qual a principal diferença entre um processo e uma thread?;Um processo tem apenas uma thread;Um processo é leve, uma thread é pesada;Um processo tem seu próprio espaço de endereço, threads compartilham o espaço do processo;Um processo compartilha memória;Um processo tem seu próprio espaço de endereço, threads compartilham o espaço do processo;Programação
+Difícil;Qual a função do operador ternário em Java?;Permitir três argumentos em um método;Uma forma curta de escrever um if-else simples;Criar um array de três dimensões;Usar três catch blocks;Uma forma curta de escrever um if-else simples;Programação
+Difícil;O que é o padrão de projeto 'Factory' (Fábrica)?;Uma classe que gera relatórios;Um método para inicializar variáveis;Um método ou classe que encapsula a lógica de criação de objetos;Um objeto que armazena outras fábricas;Um método ou classe que encapsula a lógica de criação de objetos;Programação
+Difícil;Em Java, o que a palavra-chave transient impede em um atributo?;Que ele seja acessado por outras classes;Que ele seja serializado;Que ele seja alterado após a construção;Que ele seja estático;Que ele seja serializado;Programação
+Difícil;O que é a 'Coesão' em Design de Software?;O grau de interdependência entre classes;O grau de responsabilidade única dentro de uma classe;A facilidade de compilação;A proteção de dados;O grau de responsabilidade única dentro de uma classe;Programação
+Difícil;Qual o tipo de dado do resultado da expressão (10 > 5) && (3 < 7)?;int;String;boolean;double;boolean;Programação
+Difícil;Qual o nome do software que transforma código Java em código executável pela JVM?;Compilador;Intérprete;JRE;Linker;Compilador;Programação
+Difícil;O que são 'Expressões Lambda' em Java (a partir da versão 8)?;Funções anônimas usadas para classes com uma única interface abstrata;Métodos longos;Novos tipos de dados;Classes que substituem o try-catch;Funções anônimas usadas para classes com uma única interface abstrata;Programação
+Difícil;Qual foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas distintas (Física e Química)?;Linus Pauling;Albert Einstein;Marie Curie;Niels Bohr;Marie Curie;Gerais
+Difícil;O que a síndrome de Tourette, um distúrbio neurológico, causa?;Perda de memória;Tiques motores e vocais involuntários;Paralisia facial;Daltonismo;Tiques motores e vocais involuntários;Gerais
+Difícil;Em que ano ocorreu a Revolução Francesa, marcando o início da Idade Contemporânea?;1776;1789;1804;1812;1789;Gerais
+Difícil;Qual o nome do fenômeno em que um grupo de pessoas acredita coletivamente em uma falsa memória?;Efeito Flashback;Efeito Sanfona;Efeito Mandela;Efeito Rebote;Efeito Mandela;Gerais
+Difícil;Quem foi o líder que impôs que o pão fosse chamado pelo nome de sua própria mãe, gerando uma crise de identidade nacional?;Nicolau II;Fidel Castro;Enver Hoxha;Saddam Hussein;Enver Hoxha;Gerais
+Difícil;Qual é o nome atual da região historicamente conhecida como Abissínia?;Mongólia;Jamaica;Etiópia;Bulgária;Etiópia;Gerais
+Difícil;Em qual cidade se localiza a sede da OTAN (Organização do Tratado do Atlântico Norte)?;Nova York;Berlim;Bruxelas;Genebra;Bruxelas;Gerais
+Difícil;Qual a obra de arte mais cara já arrematada em leilão, pintada (ou co-pintada) por Leonardo da Vinci?;Mona Lisa;O Grito;Salvator Mundi;A Persistência da Memória;Salvator Mundi;Gerais
+Difícil;Qual a fórmula química da água oxigenada, que é mais complexa que a da água comum?;H2O;H2O2;CO2;O3;H2O2;Gerais
+Difícil;Qual país africano foi o último a abolir a escravidão (oficialmente em 1981)?;Nigéria;Mauritânia;África do Sul;Sudão;Mauritânia;Gerais
+Difícil;O que significa a sigla WSDL em serviços web e arquitetura SOA?;Web Service Description Language;World Standard Definition Logic;Web Security Data Locator;Wireless System Data Link;Web Service Description Language;Gerais
+Difícil;Qual é a célula do sangue humano que existe em maior quantidade?;Leucócito;Plaqueta;Eritrócito (Glóbulo Vermelho);Linfócito;Eritrócito (Glóbulo Vermelho);Gerais
+Difícil;Em qual país se localiza o Monte Fuji?;China;Coreia do Sul;Japão;Tailândia;Japão;Gerais
+Difícil;Qual é o nome do principal rio que banha o Egito?;Rio Amarelo;Rio Nilo;Rio Amazonas;Rio Paraná;Rio Nilo;Gerais
+Difícil;Qual a única letra do alfabeto que não aparece na tabela periódica dos elementos químicos?;J;Q;X;K;J;Gerais
+Difícil;Qual foi o ano da Proclamação da República no Brasil, pondo fim ao Império?;1822;1889;1891;1930;1889;Gerais
+Difícil;Qual é o elemento químico representado pelo símbolo químico 'W';Tungstênio;Cálcio;Sódio;Fósforo;Tungstênio;Gerais
+Difícil;Qual a capital da Finlândia?;Oslo;Estocolmo;Copenhague;Helsinque;Helsinque;Gerais
+Difícil;Qual foi o primeiro livro impresso utilizando a prensa de Gutenberg?;A Bíblia;A Divina Comédia;O Príncipe;A Ilíada;A Bíblia;Gerais
+Difícil;Qual o nome do cientista que desenvolveu a teoria da relatividade geral?;Isaac Newton;Nikola Tesla;Albert Einstein;Galileu Galilei;Albert Einstein;Gerais
+Difícil;Quantos números primos existem entre 1 e 100?;24;25;26;27;25;Gerais
+Difícil;Qual país tem mais ilhas no mundo (cerca de 270 mil)?;Indonésia;Suécia;Canadá;Filipinas;Suécia;Gerais
+Difícil;Qual foi o primeiro filme de língua não inglesa a vencer o Oscar de Melhor Filme (2020)?;Roma;Parasita;Coringa;O Segredo dos Seus Olhos;Parasita;Gerais
+Difícil;O que é um saruê, um animal da fauna brasileira?;Um tipo de macaco;Um gambá;Um tatu;Uma raposa;Um gambá;Gerais
+Difícil;Qual foi o ano de invenção da World Wide Web (WWW) por Tim Berners-Lee?;1985;1990;1995;2000;1990;Gerais
+Difícil;Quais são os dois mamíferos que põem ovos (monotremados)?;Ornitorrinco e Coala;Morcego e Equidna;Equidna e Ornitorrinco;Golfinho e Ornitorrinco;Equidna e Ornitorrinco;Animais
+Difícil;Qual animal marinho tem a audição mais sensível, podendo ouvir sons a 800km de distância?;Golfinho;Tubarão;Baleia Azul;Orca;Baleia Azul;Animais
+Difícil;Qual animal consegue viver 10 anos sem se alimentar, entrando em um estado de dormência?;Tartaruga-gigante;Crocodilo;Proteus (peixe humano);Píton;Proteus (peixe humano);Animais
+Difícil;Qual animal passa cerca de 90% do seu dia dormindo?;Bicho-preguiça;Coala;Leão;Morcego;Coala;Animais
+Difícil;Onde está localizado o coração do camarão, tornando-o único entre os crustáceos?;No tórax;Na cabeça;Na cauda;No abdômen;Na cabeça;Animais
+Difícil;Qual animal não consegue olhar diretamente para o céu devido à anatomia de seu pescoço e coluna?;Porco;Cobra;Hipopótamo;Girafa;Porco;Animais
+Difícil;Qual animal terrestre é conhecido por ter a língua mais comprida que o próprio corpo (até 2x o tamanho)?;Girafa;Tamanduá;Camaleão;Sapo;Camaleão;Animais
+Difícil;Qual animal é o mais forte do mundo em proporção ao seu peso corporal?;Elefante;Besouro-do-esterco;Rinoceronte;Formiga;Besouro-do-esterco;Animais
+Difícil;Quantos corações um polvo geralmente possui?;Um;Dois;Três;Quatro;Três;Animais
+Difícil;Qual animal tem a capacidade de congelar completamente no inverno e descongelar na primavera (criopreservação)?;Tartaruga;Rã-da-floresta;Pinguim;Lagarto;Rã-da-floresta;Animais
+Difícil;Qual é o maior roedor do mundo?;Rato;Castor;Capivara;Hamster;Capivara;Animais
+Difícil;Qual ave tem a visão mais aguçada e de maior alcance entre todos os animais?;Coruja;Águia;Gavião;Falcão;Águia;Animais
+Difícil;Qual animal marinho é conhecido como o peixe mais venenoso do mundo?;Baiacu;Peixe-pedra;Escorpião-marinho;Raias;Peixe-pedra;Animais
+Difícil;Qual o nome do fenômeno pelo qual a Rã-da-floresta (Rana Sylvatica) consegue sobreviver ao congelamento?;Crio-hidratação;Criopreservação;Crioproteção por Glicose;Crio-anestesia;Crioproteção por Glicose;Animais
+Difícil;Qual animal é conhecido por fazer cocô em formato de cubo?;Coelho;Wombat;Panda;Hipopótamo;Wombat;Animais
+Difícil;Qual animal é o único mamífero capaz de voar?;Pássaro;Morcego;Pinguim;Golfinho;Morcego;Animais
+Difícil;Qual animal é o mais lento do mundo?;Tartaruga;Caracol;Bicho-preguiça;Lesma;Bicho-preguiça;Animais
+Difícil;Qual animal é capaz de regenerar membros perdidos do corpo, como braços ou cauda?;Lula;Estrela-do-mar;Boto;Enguia;Estrela-do-mar;Animais
+Difícil;Qual animal tem o veneno mais potente, capaz de matar um humano em menos de 10 minutos?;Cobra-real;Aranha-Armadeira;Escorpião Amarelo;Água-viva Cubo;Água-viva Cubo;Animais
+Difícil;Qual animal não bebe água durante toda a sua vida, absorvendo apenas a umidade dos alimentos?;Camelo;Coala;Canguru;Gibão;Coala;Animais
+Difícil;Qual é o nome do macho da cabra?;Bezerro;Bode;Carneiro;Touro;Bode;Animais
+Difícil;Qual animal tem a maior envergadura de asas entre todas as aves voadoras?;Albatroz-errante;Águia;Condor;Pelicano;Albatroz-errante;Animais
+Difícil;Qual é o nome do animal mais barulhento do mundo?;Elefante;Baleia Azul;Leão;Bugio;Baleia Azul;Animais
+Difícil;O que é um grupo de corvos chamado?;Manada;Bando;Alcateia;Revoada;Bando;Animais
+Difícil;Quantos olhos uma aranha pode ter no máximo?;Seis;Oito;Dez;Doze;Oito;Animais
